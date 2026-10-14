@@ -1,4 +1,14 @@
-<!-- ======================= HEADER ======================= --> <div align="center"> <img src="./assets/banner.svg" alt="Kalp Shah banner" width="100%"/> <a href="https://github.com/coder1702"> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=640&height=40&lines=%24+whoami+%E2%86%92+kalp-shah;Building+APIs+that+scale+%E2%9A%A1;Training+models+that+learn+%F0%9F%A4%96;Shipping+apps+people+actually+use+%F0%9F%93%B1;Break+%E2%86%92+Fix+%E2%86%92+Improve+%E2%86%92+Repeat" alt="Typing animation"/> </a> <br/> <img src="https://komarev.com/ghpvc/?username=coder1702&label=Profile%20Views&color=1F6FEB&style=flat-square" alt="Profile views"/> <img src="https://img.shields.io/github/followers/coder1702?style=flat-square&color=8957E5&labelColor=0D1117&logo=github" alt="Followers"/> <img src="https://img.shields.io/github/stars/coder1702?style=flat-square&color=F2CC60&labelColor=0D1117&logo=github" alt="Stars"/> </div> <br/> 
+<!-- ======================= HEADER ======================= -->
+<div align="center">
+  <img src="./assets/banner.svg" alt="Kalp Shah banner" width="100%"/>
+  <a href="https://github.com/coder1702">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=640&height=40&lines=%24+whoami+%E2%86%92+kalp-shah;Building+APIs+that+scale+%E2%9A%A1;Training+models+that+learn+%F0%9F%A4%96;Shipping+apps+people+actually+use+%F0%9F%93%B1;Break+%E2%86%92+Fix+%E2%86%92+Improve+%E2%86%92+Repeat" alt="Typing animation"/>
+  </a>
+  <br/>
+</div>
+
+<br/>
+
 <!-- ======================= ABOUT ======================= -->
 
 ## `~/about`
@@ -7,6 +17,7 @@
 class Developer:
     name       = "Kalp Shah"
     role       = "Software Developer"
+    website    = "https://kalp-shah.pages.dev"
     backend    = ["Python", "FastAPI", "Flask", "Node.js"]
     mobile     = ["Flutter"]
     data       = ["PostgreSQL", "MySQL", "MongoDB"]
@@ -108,6 +119,7 @@ I enjoy working across the stack: designing APIs and databases, building mobile 
 
 <div align="center">
 
+<a href="https://kalp-shah.pages.dev/"><img src="https://img.shields.io/badge/Website-1F6FEB?style=for-the-badge&logo=cloudflarepages&logoColor=white" alt="Website"/></a>
 <a href="https://www.linkedin.com/in/kalp-shah-0ab751356/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:kalpshah03@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://github.com/coder1702"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
